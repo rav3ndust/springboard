@@ -2,10 +2,7 @@
 
 Bootstrap based Hugo startpage theme which provides out of the box best practices.
 This theme is a fork of [Bootstrap-BP-hugo-startpage](), that will build on that original concept while providing some brand new functionalities and links, as well as changing the theme up.
-Instead of rendering the items on-the-fly as in the startpage theme the **Bootstrap-BP hugo startpage** will generate a complete single page site.
-
-Other themes by Sebastian Pech: [Bootstrap-BP](https://github.com/spech66/bootstrap-bp-hugo-theme), [Materialize-BP](https://github.com/spech66/materialize-bp-hugo-theme),
-[Bootstrap-BP hugo startpage](https://github.com/spech66/bootstrap-bp-hugo-startpage).
+Instead of rendering the items on-the-fly as in the startpage theme **Springboard** will generate a complete single page site.
 
 ## Install the theme
 
