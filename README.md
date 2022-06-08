@@ -14,10 +14,10 @@ With Git installed, run the following commands inside the Hugo site folder. If H
 ```sh
 mkdir themes
 cd themes
-git clone https://github.com/spech66/bootstrap-bp-hugo-startpage.git
+git clone https://github.com/rav3ndust/springboard.git
 ```
 
-You can get a zip of the latest version of the theme from the [home page](https://github.com/spech66/bootstrap-bp-hugo-theme) and extract it to the themes folder.
+You can get a zip of the latest version of the theme from the [home page](https://github.com/rav3ndust/springboard) and extract it to the themes folder.
 
 ## Theme settings
 
@@ -51,9 +51,9 @@ Activate the search engine you want to use (or add a new one).
   searchkey = "kw"
 ```
 
-![startPageColumns = false](https://raw.githubusercontent.com/spech66/bootstrap-bp-hugo-startpage/master/images/screenshot.png)
+![startPageColumns = false](https://raw.githubusercontent.com/rav3ndust/springboard/master/images/screenshot.png)
 
-![startPageColumns = true](https://raw.githubusercontent.com/spech66/bootstrap-bp-hugo-startpage/master/images/screenshot2.png)
+![startPageColumns = true](https://raw.githubusercontent.com/rav3ndust/springboard/master/images/screenshot2.png)
 
 Define the links in a file in `data/links.yml`. This needs to be structured like this.
 
@@ -61,12 +61,12 @@ Define the links in a file in `data/links.yml`. This needs to be structured like
 ---
 - group: Social media
   items:
-    - title: reddit
-      url: https://www.reddit.com
-      icon: fab fa-reddit
-    - title: Facebook
-      url: https://www.facebook.com
-      icon: fab fa-facebook
+    - title: neighborli
+      url: https://www.neighborli.xyz
+      icon: fab fa-neighborli
+    - title: Instagram
+      url: https://www.instagram.com
+      icon: fab fa-instagram
 - group: Utilities
   items:
     - title: GitHub
